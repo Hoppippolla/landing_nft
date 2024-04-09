@@ -132,7 +132,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 
 /*--------------------------------------------------------------
@@ -439,6 +439,7 @@ h6 {
   color: rgba(0, 0, 0, 0.8);
   margin: 10px 0 0 0;
   font-size: 20px;
+  line-height: 1.5;
 }
 
 #hero .btn-get-started {
